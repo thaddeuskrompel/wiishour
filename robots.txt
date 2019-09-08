@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://leuweitiko.advait.org/sitemap.xml
